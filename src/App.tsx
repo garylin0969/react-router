@@ -6,6 +6,7 @@ import Fallback from './Fallback';
 import Home from './Home';
 import OtherPage from './OtherPage';
 
+// 官方建議
 const router = createBrowserRouter([
     {
         path: '/',
